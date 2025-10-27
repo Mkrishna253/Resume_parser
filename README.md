@@ -9,8 +9,8 @@ This is a project I developed to demonstrate resume parsing using Large Language
 - Display extracted information in an interactive and user-friendly interface.
 
 ## Screenshots
-![Upload Resume](images/upload_resume.png)
-![Extracted Information](images/extracted_information.png)
+![Upload Resume](screenshots/upload_resume.png)
+![Extracted Information](screenshots/extracted_information.png)
 
 ## Tech Stack
 Streamlit • Python • LangChain • PyMuPDF • OpenAI LLMs
