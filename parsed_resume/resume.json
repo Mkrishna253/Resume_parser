@@ -1,0 +1,88 @@
+{
+    "Contact Information": {
+        "Name": "Christopher Liow",
+        "Email": "chrisliow@gmail.com",
+        "Phone Number": "215.375.4852",
+        "Website/Portfolio": {
+            "Github": "github.com/purdoo",
+            "HackerRank": "hackerrank.com/chrisliow",
+            "LinkedIn": "linkedin.com/in/cliow"
+        }
+    },
+    "Education": [
+        {
+            "Institution Name": "Purdue University",
+            "Degree": "BS in Computer Engineering",
+            "Field of Study": "Computer Engineering",
+            "Graduation Dates": "Expected Dec. 2015"
+        },
+        {
+            "Institution Name": "Central Bucks East HS",
+            "Graduated": "Summa Cum Laude",
+            "SAT Score": "2270/2400"
+        }
+    ],
+    "Experience": [
+        {
+            "Job Title": "Associate Software Engineer",
+            "Company Name": "Clarity Partners LLC.",
+            "Location": "Chicago, IL",
+            "Dates of Employment": "May. 2015 \u2013 present",
+            "Responsibilities/Projects": "Design and develop public-facing applications for civilians to access police resources, co-authored Visual Studio library with custom Bootstrap, WebGrid, Form Validation extension methods, automated scripts for checking/merging/editing/comparing internal databases (Oracle SQL), used ASP.NET MVC with Entity Framework, C#, HTML/CSS/JS, and Oracle SQL"
+        },
+        {
+            "Job Title": "Software Engineering and Design Intern",
+            "Company Name": "Delphi",
+            "Location": "Kokomo, IN",
+            "Dates of Employment": "June 2014 \u2013 Present",
+            "Responsibilities/Projects": "Implemented new features for Kayak and Bus Monitor applications in C#, developed a message tracking algorithm with improved speed and increased message capacity, wrote extensions to allow users to open/edit databases in various formats, organized and handled bugs and issues reported from users"
+        },
+        {
+            "Job Title": "Workstation Support Technician",
+            "Company Name": "Purdue Libraries",
+            "Location": "West Lafayette, IN",
+            "Dates of Employment": "May 2013 \u2013 Jan. 2014",
+            "Responsibilities/Projects": "Provided technical support for staff and faculty of Purdue Libraries, co-authored internal and external customer knowledgebase, worked independently and on small teams to solve technical issues that arise"
+        }
+    ],
+    "Projects": [
+        {
+            "Project Title": "Dynamic image-adjustment ASIC (DVI)",
+            "Description/Technologies Used": "Hardware implementation of the Daltonization color-correction algorithm for color blind users",
+            "Outcomes/Results": "Capable of keeping up with 60FPS at 640x480 resolution while maintaining an average color error of <0.05%"
+        },
+        {
+            "Project Title": "Multicore Processor",
+            "Description/Technologies Used": "Designed a multicore processor capable of handling the MIPS instruction set, pipelined to handle hazards from instructions, components, and memory, utilized cache coherence for efficient operation with multiple processors, capable of interfacing variable-latency RAM, written in Verilog and VHDL with automated scripts in BASH"
+        }
+    ],
+    "Skills": {
+        "Programming Languages": [
+            "Python",
+            "Java",
+            "C#",
+            "C",
+            "Verilog",
+            "Oracle SQL",
+            "HTML/CSS/JavaScript/JQuery",
+            "BASH",
+            "C++",
+            "R",
+            "MySQL"
+        ],
+        "Technologies/Tools": [
+            "Visual Studio",
+            "Eclipse",
+            "PyQt",
+            "MATLAB"
+        ]
+    },
+    "Additional Information": {
+        "Awards or Honors": [
+            "Single Cycle Processor Design (ranked 7 out of 50+ in ef\ufb01ciency)",
+            "Purdue First Year Engineering Honors Program",
+            "Recipient of AT&T Foundation Scholarship",
+            "Recipient of Purdue Presidential Scholarship (4 year scholarship)"
+        ]
+    }
+}

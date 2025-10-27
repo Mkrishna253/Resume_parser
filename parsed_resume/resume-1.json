@@ -1,0 +1,87 @@
+{
+    "Contact Information": {
+        "Name": "Kumar Pallav",
+        "Email": "me@kumarpallav.com",
+        "Phone Number": "+1-206-910-0006",
+        "Website/Portfolio": "http://kumarpallav.com"
+    },
+    "Education": [
+        {
+            "Institution Name": "Indian Institute of Technology, Bombay",
+            "Degree": "Bachelor of Computer Science and Engineering (with Hons.)",
+            "Field of Study": "Computer Science and Engineering",
+            "Graduation Dates": "Jun 2010 - May 2014"
+        }
+    ],
+    "Experience": [
+        {
+            "Job Title": "Software Engineer",
+            "Company Name": "Microsoft",
+            "Location": "Redmond, WA",
+            "Dates of Employment": "Jun 2016 - Present",
+            "Responsibilities/Projects": [
+                "Magic Ink and Ink Lookup",
+                "Whiteboard App",
+                "Content Addins"
+            ]
+        },
+        {
+            "Job Title": "Software Engineer",
+            "Company Name": "Microsoft",
+            "Location": "Vancouver, Canada",
+            "Dates of Employment": "Nov 2014 - May 2016",
+            "Responsibilities/Projects": [
+                "Embedded Videos and Web Content",
+                "Merged Cells for Tables",
+                "Realtime Ink"
+            ]
+        },
+        {
+            "Job Title": "Software Engineering Intern",
+            "Company Name": "Oracle",
+            "Location": "Bangalore, India",
+            "Dates of Employment": "Nov 2014 - May 2016",
+            "Responsibilities/Projects": [
+                "Containerization of iOS Apps",
+                "Sandboxed Browser App"
+            ]
+        }
+    ],
+    "Projects": [
+        {
+            "Project Title": "Course Allotment Simulation using SAT Solver",
+            "Description/Technologies Used": "Solving course allocation under various constraints as a SAT problem",
+            "Outcomes/Results": "Studied relative efficiency of various heuristics modeled on different solvers like MiniSAT and Glucose"
+        },
+        {
+            "Project Title": "IIT Bombay Hospital Digitization",
+            "Description/Technologies Used": "Web application in Java handling operations on relational MySQL databases for the university hospital",
+            "Outcomes/Results": "Not provided"
+        },
+        {
+            "Project Title": "Simple 2D Physics Engine",
+            "Description/Technologies Used": "Physics engine for simple round bodies providing a back-end that could generate coordinates in real-time with collision, gravity, restitution and custom resolution of time",
+            "Outcomes/Results": "Not provided"
+        },
+        {
+            "Project Title": "Social Sea",
+            "Description/Technologies Used": "Lightweight social search engine that shows the results ranked according to one's peer-group search history and rating",
+            "Outcomes/Results": "Not provided"
+        }
+    ],
+    "Skills": {
+        "Programming Languages": [
+            "C++",
+            "CSharp",
+            "JavaScript",
+            "Java",
+            "C"
+        ],
+        "Technologies/Tools": [
+            "NodeJs",
+            "UWP",
+            "Win32"
+        ]
+    },
+    "Additional Information": "Not provided in the resume text"
+}
