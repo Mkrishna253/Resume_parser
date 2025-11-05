@@ -15,4 +15,4 @@ This is a project I developed to demonstrate resume parsing using Large Language
 | <img src="screenshots/upload_resume.png" width="400"/> |   | <img src="screenshots/extracted_information.png" width="400"/> |
 
 ## Tech Stack
-Streamlit • Python • LangChain • PyMuPDF • OpenAI LLMs
+Streamlit • Python • LangChain • PyMuPDF • Ollama LLMs
