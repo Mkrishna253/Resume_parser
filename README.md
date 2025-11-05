@@ -9,8 +9,10 @@ This is a project I developed to demonstrate resume parsing using Large Language
 - Display extracted information in an interactive and user-friendly interface.
 
 ## Screenshots
-![Upload Resume](screenshots/upload_resume.png)
-![Extracted Information](screenshots/extracted_information.png)
+
+| Upload Resume |   | Extracted Information |
+|------------|---|---------------|
+| <img src="screenshots/upload_resume.png" width="400"/> |   | <img src="screenshots/extracted_information.png" width="400"/> |
 
 ## Tech Stack
 Streamlit • Python • LangChain • PyMuPDF • OpenAI LLMs
